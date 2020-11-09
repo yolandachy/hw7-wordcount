@@ -1,0 +1,13 @@
+Benefits of Nonparametric Machine Learning Algorithms:
+	•	Flexibility: Capable of fitting a large number of functional forms.
+	•	 Power: No assumptions (or weak assumptions) about the underlying function.
+	•	 Performance: Can result in higher performance models for prediction.
+Limitations of Nonparametric Machine Learning Algorithms:
+	•	 More data: Require a lot more training data to estimate the mapping function.
+	•	 Slower: A lot slower to train as they often have far more parameters to train.
+	•	 Overfitting: More of a risk to overfit the training data and it is harder to explain why specific predictions are made.
+Summary
+	•	Parametric methods make large assumptions about the mapping of the input variables to the output
+	variable and in turn are faster to train, require less data but may not be as powerful.
+	•	 Nonparametric methods make few or no assumptions about the target function and in turn require a lot
+	more data, are slower to train and have a higher model complexity but can result in more powerful models
